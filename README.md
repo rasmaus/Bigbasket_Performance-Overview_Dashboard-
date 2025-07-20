@@ -67,8 +67,3 @@ To provide business users with a clear and interactive tool that:
 * **Performance Tracking**: Monitor overall sales and engagement metrics to track business health over time.
 
 ## 📷 Dashboard Snapshots
-![Dashboard Preview – ](https://github.com/rasmaus/photo1-/blob/main/selected%20day%20weather%20glimpse.png)
-
-
-**![Dashboard Preview - ](https://github.com/rasmaus/photo2-/blob/main/selected%20day%20weather%20glimpse.png)
-**---
