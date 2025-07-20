@@ -67,10 +67,8 @@ To provide business users with a clear and interactive tool that:
 * **Performance Tracking**: Monitor overall sales and engagement metrics to track business health over time.
 
 ## 📷 Dashboard Snapshots
+![Dashboard Preview – ](https://github.com/rasmaus/photo1-/blob/main/selected%20day%20weather%20glimpse.png)
 
-| Full Dashboard View | Filters & Breakdown |
-|---------------------|----------------------|
-| ![Dashboard 1](https://raw.githubusercontent.com/rasmaus/Bigbasket_Performance-Overview_Dashboard-/main/photo1.png) | ![Dashboard 2](https://raw.githubusercontent.com/rasmaus/Bigbasket_Performance-Overview_Dashboard-/main/photo%204.png) |
-| ![Dashboard 3](https://raw.githubusercontent.com/rasmaus/Bigbasket_Performance-Overview_Dashboard-/main/photo%206.png) | |
 
----
+**![Dashboard Preview - ](https://github.com/rasmaus/photo2-/blob/main/selected%20day%20weather%20glimpse.png)
+**---
